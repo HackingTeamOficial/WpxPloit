@@ -12,10 +12,9 @@ $ ./exploit.py
 
 Modo de Uso 
 
-Usage
+./exploit.py <url> <thread> <timeout>
 
-[+] Usage	: ./exploit.py <url> <thread> <timeout>
-[+] Examlple	: ./exploit.py http://target.com/ 5 15
+./exploit.py http://target.com/ 5 15
 
 
 Nuestras RRSS
